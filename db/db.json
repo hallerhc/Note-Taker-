@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Test Title",
+        "text": "Test text",
+        "note_id": ""
+    },
+    {
+        "title": "Groceries ",
+        "text": "apples \noranges \nbananas ",
+        "note_id": "de5653b9-fc8a-4d92-a1d2-3ea52d84c271"
+    },
+    {
+        "title": "Errands ",
+        "text": "pick up laundry \nstop at bank",
+        "note_id": "47b725de-f030-47b9-889f-512954eeb4cd"
+    }
+]
