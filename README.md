@@ -10,6 +10,8 @@ Note Taker can be used to write and save notes. This application will use an Exp
 
 * [Contribution](#contribution)
 
+* [Link](#link)
+
 ## Installation
 Express.js
 
