@@ -23,7 +23,7 @@ There were no other contributers in this porject. This application uses Express.
 
 https://github.com/hallerhc/Note-Taker-
 
-https://arcane-plateau-40598.herokuapp.com/notes
+https://arcane-plateau-40598.herokuapp.com/
 
 ![Screen Shot Note Taker Heroku](https://user-images.githubusercontent.com/100663920/175194331-d9b458a8-8c21-4348-a82a-6343d695a5cd.png)
 ![Screen Shot Note Taker localhost](https://user-images.githubusercontent.com/100663920/175194348-f49bb981-e7d9-4f66-b295-f3175a3c9ebc.png)
