@@ -20,7 +20,9 @@ This application allows user to write and save notes. When the user enters a new
 There were no other contributers in this porject. This application uses Express.js and is deployed to Heroku
 
 ## Link 
+
 https://github.com/hallerhc/Note-Taker-
+
 https://arcane-plateau-40598.herokuapp.com/notes
 
 ![Screen Shot Note Taker Heroku](https://user-images.githubusercontent.com/100663920/175194331-d9b458a8-8c21-4348-a82a-6343d695a5cd.png)
